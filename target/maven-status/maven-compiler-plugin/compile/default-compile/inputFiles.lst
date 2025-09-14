@@ -1,0 +1,8 @@
+C:\sli\java-projects\common\src\main\java\com\example\common\RequestCorrelationFilter.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\ValidationError.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\ErrorResponse.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\ResourceNotFoundException.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\DuplicateResourceException.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\ServiceException.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\ValidationException.java
+C:\sli\java-projects\common\src\main\java\com\example\common\exception\GlobalExceptionHandler.java

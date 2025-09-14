@@ -1,0 +1,8 @@
+com\example\common\exception\ValidationException.class
+com\example\common\exception\ValidationError.class
+com\example\common\exception\ServiceException.class
+com\example\common\exception\GlobalExceptionHandler.class
+com\example\common\RequestCorrelationFilter.class
+com\example\common\exception\DuplicateResourceException.class
+com\example\common\exception\ErrorResponse.class
+com\example\common\exception\ResourceNotFoundException.class

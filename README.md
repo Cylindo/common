@@ -1,3 +1,4 @@
+
 # Common Service
 
 This module provides shared code and utilities used by both the `transfer-service` and `ledger-service` in the microservices architecture. It includes common exception handling, validation classes, and other reusable components.
@@ -24,8 +25,4 @@ This will install the `common` module into your local Maven repository, making i
 ### Next Steps
 
 After building the `common` module, you can proceed to build and run the `transfer-service` and `ledger-service` as described in their respective `README.md` files.
-
-## License
-
-MIT
 
